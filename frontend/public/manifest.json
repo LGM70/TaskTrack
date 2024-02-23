@@ -1,6 +1,6 @@
 {
-  "short_name": "ToDo List",
-  "name": "A online to-do list",
+  "short_name": "TaskTrack",
+  "name": "TaskTrack",
   "icons": [
     {
       "src": "favicon.ico",
