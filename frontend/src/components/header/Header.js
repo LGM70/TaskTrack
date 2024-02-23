@@ -9,7 +9,7 @@ const Header = ({ login, user, setShow }) => {
         <Navbar bg="primary" data-bs-theme="dark" expand="sm" sticky="top">
             <Container fluid>
                 <Navbar.Brand className="ms-2">
-                    To-Do
+                    TaskTrack
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="collapse-navbar" />
                 <Navbar.Collapse id="collapse-navbar">
