@@ -38,7 +38,7 @@ I don't have a personal server, so you have to deploy it yourself. Sorry for tha
 
 ### Another choice
 
-If you are willing to donate some money, I will be happy to rent a server and depoly the TaskTrack for you and your team.
+If you are willing to donate some money, I will be happy to rent a server and deploy the TaskTrack for you and your team.
 
 ### Usage
 
