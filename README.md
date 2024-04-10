@@ -4,7 +4,7 @@ A web application that helps you and your team to share and track tasks.
 
 ## Motivation
 
-There are many similar (and more powerful) tools like TaskTrack. But I prefer not to install lots of apps on my laptop and phone. And I really dislike the ads covering parts of my screen, and the fancy-looking UIs.
+There are many similar (and more powerful) tools like TaskTrack. But I prefer not to install lots of apps on my laptop and phone. And I don't like the ads covering parts of my screen and the fancy-looking UIs.
 
 ## Quickstart
 
@@ -20,9 +20,9 @@ I don't have a personal server, so you have to deploy it yourself. Sorry for tha
 
 2. I recommend you to download [IntelliJ IDEA](https://www.jetbrains.com/idea/) to build the backend project.
 
-3. In `backend/src/main/resources`, create a `.env` file. You should follow the syntax of `backend/src/main/resources/.env.example`. The first 4 variable can be found in the link you used to connect the MongoDB database. The last variable needs to be a more-than-64-char-long string.
+3. In `backend/src/main/resources`, create a `.env` file. You should follow the syntax of `backend/src/main/resources/.env.example`. The first 4 variables can be found in the link you used to connect the MongoDB database. The last variable needs to be a more-than-64-char-long string.
 
-4. Load the project using maven, and build it in IntelliJ IDEA.
+4. Load the project using Maven, and build it in IntelliJ IDEA.
 
 ### Setup frontend environment
 
@@ -42,8 +42,8 @@ If you are willing to donate some money, I will be happy to rent a server and de
 
 ### Usage
 
-I will upload a video to demostrate how to use TaskTrack days later. Feel free to [contact me](https://lgm70.github.io) if you have any questions.
+Feel free to [contact me](https://lgm70.github.io) if you have any questions.
 
 ### Frameworks used
 
-The backend APIs are built using SpringBoot in Java, while the frontend application is developed with React.js, Bootstrap and leverages Axios for handling HTTP requests and responses.
+The backend APIs are built using SpringBoot in Java, while the frontend application is developed with React.js and Bootstrap and leverages Axios for handling HTTP requests and responses.
